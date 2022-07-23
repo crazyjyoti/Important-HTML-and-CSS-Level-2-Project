@@ -24,3 +24,19 @@
 
 ### Mobile View
 ![Screenshot_20220723-152818_2 (2)](https://user-images.githubusercontent.com/51984459/180601256-93957c18-354b-498e-b5b2-655d86c93ebe.png)
+
+
+# 3. Verify-UI
+
+#### Building this verify-UI page using html and css .
+#### This is basically a responsive page so that when the screen size changes, the layout also changes which make it more interactive.
+## Project Link->https://joyful-baklava-60d0ca.netlify.app/
+
+
+## Screenshot
+### Desktop view
+![Screenshot (258)](https://user-images.githubusercontent.com/51984459/180602071-7296861a-5b22-4864-8ab1-cbb38cb3e9f6.png)
+
+### Mobile View
+![Screenshot (259)](https://user-images.githubusercontent.com/51984459/180602140-1d54d9e5-352d-43ef-80f5-b84830542253.png)
+
