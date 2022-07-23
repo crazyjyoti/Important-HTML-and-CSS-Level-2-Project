@@ -1,6 +1,7 @@
 # Important-HTML-and-CSS-Level-2-Project-March-22-Batch---HTML-and-CSS-Level-2---9rns39gmffmc
 
 # 1.netflix-homepage
+#### This website design is basically homepage page of netflix using html and css.
 ### Project Link->https://profound-sable-be4fbd.netlify.app/
 ![Screenshot (242)](https://user-images.githubusercontent.com/51984459/180406744-7395a3e8-6a00-483f-a539-211c7479dfe3.png)
 ![Screenshot (243)](https://user-images.githubusercontent.com/51984459/180406768-bddc7e43-2f9e-41ee-b2d6-85aca1295714.png)
