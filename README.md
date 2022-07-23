@@ -12,3 +12,15 @@
 ![Screenshot (249)](https://user-images.githubusercontent.com/51984459/180406944-92eccdd7-b706-49be-b101-8dbb01f0a16d.png)
 ![Screenshot (250)](https://user-images.githubusercontent.com/51984459/180406959-65be4c0e-b1f3-4868-821d-fe2430e9c9c1.png)
 
+# 2. 3-coloumn_preview_card_component
+#### Building this 3-preview card component using html and css .
+#### This is basically a responsive page so that when the screen size changes, the layout also changes which make it more interactive.
+## Project Link->https:https://zesty-kringle-409347.netlify.app/
+
+
+## Screenshot
+### Desktop view
+![Screenshot (254)](https://user-images.githubusercontent.com/51984459/180600312-738a1e0e-5fd4-4a3a-9e40-112150052f13.png)
+
+### Mobile View
+![Screenshot_20220723-152818_2 (2)](https://user-images.githubusercontent.com/51984459/180601256-93957c18-354b-498e-b5b2-655d86c93ebe.png)
